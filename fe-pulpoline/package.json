@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@hashgraph/sdk": "^2.52.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
